@@ -16,6 +16,6 @@ Thing to consider
 •	US zipcode can be of 9 digits but we want only the first 5 digits 
 •	https://smartystreets.com/articles/zip-4-code
  
-Task 6.1 Write a python function to address typos in a column 
+Task 4.1 Write a python function to address typos in a column 
 Thing to consider
 •	Code should identify which columns have categorical data and do operations on that columns
